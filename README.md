@@ -1,1 +1,1 @@
-# 서울시 SMap-Open Lab   issue Tracker
+# 서울시 OpenLab   issue Tracker
